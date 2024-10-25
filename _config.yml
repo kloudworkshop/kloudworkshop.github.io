@@ -1,4 +1,4 @@
-remote_theme: Jekyll-Theme-Minimal
+remote_theme: Jekyll-Theme-Architect
 exclude:
   - readme.md
   - .github/
