@@ -7,7 +7,7 @@ casestudy:
 # Design a governance solution
 
 ## Requirements
-![compute architecture](media/compute.png)
+![compute architecture](media/FXLogix.png)
 
 h1 heading1
 h2 heading2
