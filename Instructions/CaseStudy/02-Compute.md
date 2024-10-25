@@ -4,7 +4,7 @@ casestudy:
     module: 'Compute solutions'
 ---
 
-# Design a governance solution
+# Design a compute solution
 
 ## Requirements
 ![compute architecture](media/FXLogix.png)
