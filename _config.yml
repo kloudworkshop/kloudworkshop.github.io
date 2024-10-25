@@ -4,9 +4,6 @@ exclude:
   - .github/
 header_pages:
   - index.html
-author: 
-twitter_username: 
-github_username:  
 plugins:
   - jekyll-sitemap
   - jekyll-mentions
