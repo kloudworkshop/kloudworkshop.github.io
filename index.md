@@ -4,8 +4,6 @@ permalink: index.html
 layout: home
 ---
 
-# Content Directory
-
 Hyperlinks to each case study is listed below.
 
 ## Case Studies
