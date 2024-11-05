@@ -4,7 +4,7 @@ permalink: index.html
 layout: home
 ---
 
-Hyperlinks to each case study is listed below.
+The hyperlinks to each case study is listed below.
 
 ## Case Studies
 
