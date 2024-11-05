@@ -15,7 +15,7 @@ The local authority is planning to move all primary and secondary schools to Azu
 ## Task
 
     
-   1. What are the ways that the local authority could organize their subscriptions and management group?
+   1. What are the ways that the local authority could organize their subscriptions and management groups?
 
    2. Design a minimum of two ways that this could be done and explain the reason for your decisions.
 
