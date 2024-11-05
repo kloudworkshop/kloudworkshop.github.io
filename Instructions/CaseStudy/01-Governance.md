@@ -14,7 +14,7 @@ The local authority is planning to move all primary and secondary schools to Azu
 
 ## Task
 
-   1. ** Cost**
+ Cost.
     
         * What are the ways that the local authority could organize their subscriptions and management group?
     
