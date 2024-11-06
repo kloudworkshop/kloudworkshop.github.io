@@ -1,6 +1,6 @@
 ---
 casestudy:
-    title: 'Design authentication and authorization solutions'
+    title: 'Design authentication and authorization solution'
     module: 'Authentication and authorization solutions'
 ---
 
