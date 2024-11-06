@@ -1,6 +1,6 @@
 ---
 casestudy:
-    title: 'Design a network solutions'
+    title: 'Design a network solution'
     module: 'Networking solutions'
 ---
 
