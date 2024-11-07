@@ -25,7 +25,7 @@ Local Authority wants to reduce storage costs by reducing duplicate content and,
 
 ## Tasks
 
-1. Design a storage solution for loacl authority schools. 
+1. Design a storage solution for local authority schools. 
 
       * What type of data is represented? 
 
