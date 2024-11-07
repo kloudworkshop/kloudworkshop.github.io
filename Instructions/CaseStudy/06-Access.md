@@ -34,7 +34,7 @@ The local authoring is moving all schools to the cloud, they need help in decidi
 
   * For the above requirements, be sure to include any tools that will be used. List at least three benefits of your suggested solution. 
 
-* Provide at least three recommendations for improving Tailwind Traders user identity solutions. Rank the recommendations in order of importance. Include your reasons for making these suggestions. 
+* Provide at least three recommendations for improving the user identity solutions. Rank the recommendations in order of importance. Include your reasons for making these suggestions. 
 
 **New application access**
 
@@ -42,4 +42,4 @@ The local authoring is moving all schools to the cloud, they need help in decidi
 
   * Provide an access solution for the on-premises resources.
 
-How are you incorporating the Well Architected Framework pillars to produce a high qua
+
